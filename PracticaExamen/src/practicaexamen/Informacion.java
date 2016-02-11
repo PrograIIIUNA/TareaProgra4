@@ -37,6 +37,8 @@ public class Informacion extends JFrame implements ActionListener{
     JButton enviar, cerrar;
     JComboBox p, es;
     String texto, texto2;
+    //agregando nueva variable
+    String prueba;
 
     public Informacion(){
         super("Información Personal");
